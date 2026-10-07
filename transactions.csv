@@ -1,0 +1,11 @@
+id,date,type,category,description,amount
+1,2026-09-01,Income,Other,Monthly Pocket Money,5000
+2,2026-09-02,Expense,Food,Lunch,180
+3,2026-09-03,Expense,Travel,Bus Pass,500
+4,2026-09-05,Expense,Education,Notebook,250
+5,2026-09-10,Expense,Entertainment,Movie,300
+6,2026-10-01,Income,Other,Monthly Pocket Money,5000
+7,2026-10-02,Expense,Food,Breakfast,150
+8,2026-10-03,Expense,Shopping,Clothes,700
+9,2026-10-04,Expense,Travel,Auto Fare,250
+10,2026-10-07,Expense,Food,jjj,89.00

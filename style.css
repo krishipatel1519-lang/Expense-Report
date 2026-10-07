@@ -1,0 +1,57 @@
+/* Background Image */
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("abcd2.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Main Content Box */
+.container {
+    width: 75%;
+    max-width: 850px;
+    background: rgba(255, 255, 255, 0.85);
+    padding: 35px;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+    backdrop-filter: blur(5px);
+}
+
+/* Heading Styles */
+h1 {
+    font-style: normal;
+    font-size: 120%;
+    text-align: center;
+    font-weight: bold;
+    color: #8B0000;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-style: normal;
+    font-size: 120%;
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 25px;
+}
+
+/* Arial Class for Paragraph */
+.arial {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.8;
+    color: #222;
+    text-align: justify;
+}
